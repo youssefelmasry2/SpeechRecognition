@@ -11,7 +11,7 @@ This project is a sound processing application that records audio, applies a ban
 - Audio recording functionality to capture sound input.
 - Bandpass filter to isolate and enhance specific frequency bands.
 - Integration with a Speech Recognition API for converting spoken words to text.
-- Simple and intuitive user interface.
+- Simple and easy to use
 
 ## How to Use
 
