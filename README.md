@@ -18,7 +18,7 @@ This project is a sound processing application that records audio, applies a ban
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sound-processing-project.git
+   git clone https://github.com/youssefelmasry2/SpeechRecognition.git
 2.Run the application:
 
    
